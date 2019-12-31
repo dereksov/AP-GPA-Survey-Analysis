@@ -1,0 +1,140 @@
+Timestamp,Did you take AP or IB classes in high school?,Which did you take?,Number of AP or IB classes taken,GPA in High School (Non-Weighted),What university/college are you attending?,What year are you?,GPA in College
+11/7/2019 16:33:04,Yes,AP,9,3.84,UCSD,Year 3 (Junior),3.53
+11/7/2019 16:39:56,Yes,AP,5,3.9,UCSD,Year 3 (Junior),3.87
+11/7/2019 16:45:36,Yes,AP,7,3.87,UCSD,Year 3 (Junior),3.48
+11/7/2019 16:52:05,Yes,AP,6,3.83,UC Berkeley,Year 3 (Junior),3.01
+11/7/2019 17:02:08,Yes,AP,5,3.5,PCC,Year 3 (Junior),3
+11/7/2019 17:35:25,Yes,AP,5,3.64,SDMC,Year 2 (Sophomore),3.95
+11/7/2019 18:15:58,Yes,AP,4,3.7,UCR,Year 3 (Junior),3.2
+11/7/2019 20:06:00,Yes,AP,2,2.7,UCSD,Year 3 (Junior),3.4
+11/7/2019 22:39:51,Yes,AP,7,4.5,UCSD,Year 4 (Senior),3.7
+11/7/2019 23:21:23,Yes,AP,6,3.9,UC Berkeley,Year 4 (Senior),3.6
+11/7/2019 23:32:37,Yes,AP,12,4.25,UC Berkeley,Year 4 (Senior),3.53
+11/7/2019 23:32:51,Yes,AP,10,3.9,UC Berkeley,Year 1 (Freshman),3.2
+11/8/2019 7:44:10,Yes,AP,1,4,UC Berkeley,Year 5 or more,4
+11/8/2019 16:33:50,Yes,AP,8,4,UTexas (Austin),Year 5 or more,2.9
+11/8/2019 23:29:12,Yes,AP,8,4.33,UCSD,Year 3 (Junior),3.35
+11/11/2019 14:00:40,Yes,AP,5,3.5,UCSC ,Year 3 (Junior),2.3
+11/12/2019 17:08:35,Yes,AP,10,3.6,UCSD,Year 2 (Sophomore),3.1
+11/12/2019 18:01:06,Yes,AP,13,3.87,UCSD,Year 1 (Freshman),4
+11/12/2019 18:19:42,Yes,AP,2,2.9,CSUDH,Year 1 (Freshman),2.5
+11/12/2019 18:31:28,Yes,AP,6,3.4,SWC,Year 1 (Freshman),3
+11/12/2019 18:51:22,Yes,AP,5,3,CSUDH,Year 1 (Freshman),4
+11/12/2019 18:56:25,Yes,AP,6,3.83,Holy Cross,Year 1 (Freshman),3.55
+11/12/2019 18:56:56,Yes,AP,8,4,UC Berkeley,Year 1 (Freshman),3
+11/12/2019 19:17:57,Yes,AP,8,3.8,UCSD,Year 1 (Freshman),4
+11/12/2019 19:37:26,Yes,AP,6,3,SDSU,Year 1 (Freshman),2
+11/12/2019 19:55:04,Yes,AP,13,3.8,UCSD,Year 1 (Freshman),0
+11/12/2019 20:21:21,Yes,AP,4,3.2,SDSU,Year 1 (Freshman),2
+11/12/2019 20:26:07,Yes,AP,5,3.7,SDSU,Year 1 (Freshman),3.2
+11/12/2019 21:11:57,Yes,AP,7,4,SDMC,Year 2 (Sophomore),4
+11/12/2019 21:14:40,Yes,AP,6,3.7,UCLA,Year 5 or more,3.34
+11/12/2019 21:15:44,Yes,AP,11,3.5,SWC,Year 1 (Freshman),3.75
+11/12/2019 21:17:34,Yes,AP,5,3.85,SDSU,Year 4 (Senior),2.8
+11/12/2019 21:18:27,Yes,AP,7,3.8,UCSB,Year 4 (Senior),3.6
+11/12/2019 21:19:13,Yes,AP,4,3.4,SFSU,Year 4 (Senior),3.559
+11/12/2019 21:31:15,Yes,AP,4,3.3,Grossmont,Year 4 (Senior),1.8
+11/12/2019 21:57:17,Yes,AP,9,3.95,UC Berkeley ,Year 4 (Senior),3.895
+11/12/2019 22:28:01,Yes,AP,7,4,UCI,Year 4 (Senior),3.26
+11/12/2019 22:32:53,Yes,AP,2,3.5,SWC,Year 1 (Freshman),3
+11/12/2019 22:44:07,Yes,AP,12,3.5,SWC,Year 1 (Freshman),3
+11/12/2019 23:04:32,No,None,0,3.6,Crafton Hills,Year 2 (Sophomore),3.7
+11/12/2019 23:05:48,No,None,0,3.5,UCLA,Year 5 or more,3.7
+11/12/2019 23:43:25,Yes,AP,1,3.3,APU,Year 1 (Freshman),4
+11/13/2019 0:30:15,Yes,AP,1,3.4,CSULB,Year 4 (Senior),1.93
+11/13/2019 0:55:24,No,None,0,4,HWC,Year 1 (Freshman),3.5
+11/13/2019 6:19:15,Yes,AP,5,2.6,CGCC,Year 2 (Sophomore),3.9
+11/13/2019 8:47:07,Yes,IB,1,1.9,TESC,Year 2 (Sophomore),3.2
+11/13/2019 13:25:35,Yes,AP,4,4,CSUDH,Year 1 (Freshman),3
+11/13/2019 21:50:15,Yes,AP,8,3.98,UCSD,Year 3 (Junior),3.61
+11/13/2019 21:50:15,Yes,AP,5,3.33,CSUF,Year 2 (Sophomore),3
+11/13/2019 21:51:52,Yes,IB,6,4,UCSD,Year 2 (Sophomore),3.8
+11/13/2019 21:52:50,Yes,AP,3,3.5,IVC,Year 3 (Junior),2.8
+11/13/2019 21:54:01,Yes,IB,3,3.5,WPI,Year 5 or more,3.58
+11/13/2019 21:54:51,Yes,AP,1,3.4,CSUF,Year 3 (Junior),2.8
+11/13/2019 21:55:19,Yes,AP,5,3.87,UCSD,Year 3 (Junior),3.56
+11/13/2019 21:58:03,Yes,AP,9,3.8,UCR,Year 1 (Freshman),4
+11/13/2019 21:58:32,Yes,Both,12,3.3,UCSD,Year 3 (Junior),3.6
+11/13/2019 22:01:38,Yes,AP,6,3.9,UCI,Year 4 (Senior),3.8
+11/13/2019 22:01:44,Yes,AP,6,3.9,UCI,Year 4 (Senior),3.8
+11/13/2019 22:04:16,Yes,AP,8,3.9,UCSD,Year 3 (Junior),3.9
+11/13/2019 22:05:17,Yes,AP,3,3.5,UCSD,Year 2 (Sophomore),2.5
+11/13/2019 22:06:29,Yes,AP,6,3.89,UCSD,Year 2 (Sophomore),3.44
+11/13/2019 22:10:02,Yes,AP,5,3.86,UCSD,Year 2 (Sophomore),3.042
+11/13/2019 22:11:08,Yes,AP,4,3.73,UCSD,Year 2 (Sophomore),4
+11/13/2019 22:12:34,Yes,AP,2,3.88,GWC,Year 3 (Junior),4
+11/13/2019 22:12:58,Yes,AP,10,3.9,UCSD,Year 2 (Sophomore),3.4
+11/13/2019 22:13:11,Yes,AP,10,3.98,UCSD,Year 2 (Sophomore),4
+11/13/2019 22:15:51,Yes,AP,9,4,UCSD,Year 2 (Sophomore),3.5
+11/13/2019 22:16:34,Yes,AP,6,4,UCSD,Year 2 (Sophomore),2.6
+11/13/2019 22:19:34,Yes,AP,4,3.5,UCR,Year 5 or more,3.8
+11/13/2019 22:20:13,Yes,AP,9,4,UCSD,Year 2 (Sophomore),4
+11/13/2019 22:26:34,Yes,AP,3,4,UCSD,Year 2 (Sophomore),2.79
+11/13/2019 22:27:15,Yes,AP,8,3.7,UCSD,Year 2 (Sophomore),3.5
+11/13/2019 22:32:13,No,None,0,2,CCSF,Year 3 (Junior),3
+11/13/2019 22:34:40,Yes,IB,8,3.85,UCSD,Year 2 (Sophomore),3.5
+11/13/2019 22:41:14,Yes,AP,6,3.6,UCSD,Year 3 (Junior),3.6
+11/13/2019 22:44:55,Yes,AP,3,3.6,UCSD,Year 4 (Senior),3.4
+11/13/2019 22:46:50,Yes,AP,7,4,UCSD,Year 2 (Sophomore),3.8
+11/13/2019 22:52:42,Yes,AP,7,3.8,UCSD,Year 2 (Sophomore),2.063
+11/13/2019 22:59:16,Yes,AP,8,3.97,UCSD,Year 2 (Sophomore),3.86
+11/13/2019 23:08:27,Yes,AP,5,4,UCSD,Year 4 (Senior),3.67
+11/13/2019 23:12:23,Yes,AP,11,4,UCSD,Year 3 (Junior),3.57
+11/13/2019 23:12:45,Yes,AP,9,3.85,UCSD,Year 2 (Sophomore),3.91
+11/13/2019 23:20:56,Yes,AP,9,3.7,UCSD,Year 2 (Sophomore),3.28
+11/13/2019 23:24:11,Yes,Both,14,3.85,UCSD,Year 2 (Sophomore),3.62
+11/13/2019 23:34:19,Yes,AP,2,3.33,UCSD,Year 2 (Sophomore),2.8
+11/13/2019 23:34:39,Yes,IB,12,4,UCSD,Year 2 (Sophomore),3.46
+11/13/2019 23:34:57,Yes,AP,3,3.3,UCSD,Year 5 or more,3.65
+11/13/2019 23:46:12,Yes,AP,8,3.95,UCSD,Year 2 (Sophomore),2.5
+11/13/2019 23:51:12,Yes,AP,5,3.89,UCSD,Year 2 (Sophomore),3.662
+11/14/2019 0:09:23,Yes,AP,8,3.65,UCSD,Year 2 (Sophomore),2.221
+11/14/2019 0:25:06,No,None,0,3.1,Pierce ,Year 2 (Sophomore),2.7
+11/14/2019 0:26:07,Yes,AP,4,3.89,UCSD,Year 2 (Sophomore),3.2
+11/14/2019 0:34:40,Yes,AP,7,4,UCSD,Year 2 (Sophomore),3.7
+11/14/2019 0:36:52,Yes,AP,5,4,UCSD,Year 2 (Sophomore),3.4
+11/14/2019 0:41:57,Yes,AP,2,4,UCSD,Year 2 (Sophomore),1.88
+11/14/2019 1:11:44,Yes,AP,12,3.9,UCSD,Year 4 (Senior),3
+11/14/2019 1:31:19,Yes,AP,10,3.7,UCSD,Year 3 (Junior),3.48
+11/14/2019 1:59:40,Yes,AP,10,3.87,UCSD,Year 2 (Sophomore),3.56
+11/14/2019 2:06:56,Yes,AP,7,3.8,UCSD,Year 2 (Sophomore),3
+11/14/2019 2:07:15,Yes,Both,7,3.92,UCSD,Year 4 (Senior),2.67
+11/14/2019 2:31:31,Yes,AP,9,3.8,UCSD,Year 2 (Sophomore),2.27
+11/14/2019 3:04:00,Yes,AP,13,3.78,UCSD,Year 2 (Sophomore),3.61
+11/14/2019 5:53:11,Yes,AP,8,3.73,UCSD,Year 2 (Sophomore),3.33
+11/14/2019 7:47:00,Yes,Both,21,4,UCSD,Year 4 (Senior),3.3
+11/14/2019 7:52:01,Yes,AP,5,3.98,UCSD,Year 3 (Junior),3.956
+11/14/2019 8:28:15,Yes,AP,8,4,UCSD,Year 2 (Sophomore),3.925
+11/14/2019 8:28:50,Yes,AP,17,4,UCLA,Year 3 (Junior),3.57
+11/14/2019 8:34:21,Yes,AP,2,3.9,UCSD,Year 2 (Sophomore),3.84
+11/14/2019 8:40:01,Yes,AP,6,4,UCSD,Year 2 (Sophomore),3.8
+11/14/2019 8:50:30,Yes,AP,9,3.8,UCSD,Year 2 (Sophomore),3.8
+11/14/2019 9:18:08,Yes,AP,6,3.98,UCSD,Year 2 (Sophomore),3.75
+11/14/2019 9:20:31,Yes,Both,16,3.64,UCSD,Year 3 (Junior),3.82
+11/14/2019 9:44:15,Yes,AP,6,3.8,UCI,Year 3 (Junior),4
+11/14/2019 10:50:29,Yes,AP,3,3.6,GWC,Year 3 (Junior),3.9
+11/14/2019 10:57:31,Yes,AP,8,3.6,UCSB,Year 1 (Freshman),3.6
+11/14/2019 11:25:52,Yes,AP,8,4,UCSD,Year 2 (Sophomore),3.93
+11/14/2019 12:11:30,Yes,AP,14,3.8,UCSD,Year 2 (Sophomore),3.85
+11/14/2019 12:20:58,Yes,AP,10,3.5,UCSD,Year 2 (Sophomore),3.3
+11/14/2019 13:09:28,Yes,AP,1,2.5,Cypress,Year 2 (Sophomore),3.5
+11/14/2019 13:56:35,Yes,AP,8,3.94,UCSD,Year 2 (Sophomore),3.96
+11/14/2019 14:47:34,Yes,AP,14,3.9,UCSD,Year 2 (Sophomore),3.89
+11/14/2019 16:48:44,Yes,AP,9,3.9,UCSD,Year 2 (Sophomore),4
+11/14/2019 18:32:27,Yes,AP,1,2.8,OCC,Year 2 (Sophomore),2.5
+11/14/2019 18:35:19,Yes,AP,4,3.2,CSULB,Year 2 (Sophomore),1.8
+11/14/2019 18:43:55,Yes,AP,5,3.8,CSULB,Year 2 (Sophomore),3.4
+11/14/2019 18:59:50,Yes,AP,10,3.8,UCI,Year 2 (Sophomore),2.52
+11/14/2019 20:41:04,No,None,0,2.7,GWC,Year 2 (Sophomore),2.4
+11/14/2019 21:19:21,AP/IB was not available,None,0,3,GWC,Year 3 (Junior),3
+11/14/2019 21:26:13,Yes,AP,4,3.9,CSULB,Year 2 (Sophomore),1.3
+11/14/2019 21:29:29,Yes,AP,1,3.8,UCI,Year 2 (Sophomore),3
+11/14/2019 22:03:24,No,None,0,2.8,CSULB,Year 2 (Sophomore),2
+11/14/2019 22:43:29,Yes,AP,8,3.6,UCSD,Year 4 (Senior),2.9
+11/14/2019 23:54:10,Yes,AP,6,3.45,OCC,Year 1 (Freshman),3.7
+11/15/2019 2:59:09,Yes,AP,8,3.8,UCSD,Year 4 (Senior),3.6
+11/15/2019 12:30:09,Yes,AP,6,3.5,UCSD,Year 2 (Sophomore),2.5
+11/15/2019 19:54:47,Yes,AP,9,3.97,UCSD,Year 2 (Sophomore),3.07
+11/16/2019 18:31:19,Yes,AP,6,3.9,UCSD,Year 2 (Sophomore),3.5
+11/16/2019 18:33:44,Yes,AP,8,4,UCSD,Year 2 (Sophomore),3.46
+11/17/2019 3:37:43,Yes,AP,14,3.68,UCSD,Year 2 (Sophomore),3.42
